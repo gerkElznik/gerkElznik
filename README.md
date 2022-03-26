@@ -6,8 +6,6 @@ I'm currently working as a Cloud Engineer with [Radian](https://www.radian.com) 
 
 I'm interested in DevOps, cloud native, and modern architectures that improve the way we develop, deliver, and operationlize software and applications.
 
-Blog: https://gerkElznike.github.io
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerkElznik&theme=cobalt2&custom_title=Gerk%20Elznik's%20Top%20Langs)
 
 Thanks for visiting!  ☁️🤙💪
