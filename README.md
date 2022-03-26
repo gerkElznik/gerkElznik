@@ -4,7 +4,7 @@ This is a collection of projects made during my free time with the aim of helpin
 
 I'm currently working as a Cloud Engineer with [Radian](https://www.radian.com) in their [homegenius](https://homegenius.com) division in Denver, CO.
 
-I'm interested in DevOps, cloud native, and modern architectures that improve the way we develop, deliver, and operationlize software and applications.
+I'm interested in DevOps, cloud native, and modern architectures that improve the way we develop, deliver, and operationalize software and applications.
 
 You can find my personal site [here](https://gerkElznik.github.io), which I built and host using GitHub Pages and Jekyll.  If you're curious about that checkout my [blog post](https://gerkelznik.github.io/jekyll/update/creating-personal-website) around creating your own!
 
