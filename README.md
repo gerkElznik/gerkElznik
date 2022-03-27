@@ -6,7 +6,7 @@ I'm currently working as a Cloud Engineer with [Radian](https://www.radian.com) 
 
 I'm interested in DevOps, cloud native, and modern architectures that improve the way we develop, deliver, and operationalize software and applications.
 
-You can find my personal site [here](https://gerkElznik.github.io), which I built and host using GitHub Pages and Jekyll.  If you're curious about that checkout my [blog post](https://gerkelznik.github.io/jekyll/update/creating-personal-website) around creating your own!
+You can find my personal site [here](https://gerkElznik.github.io), which I built and host using GitHub Pages and Jekyll.  If you're curious about that checkout my [blog post](https://gerkelznik.github.io/blogging/creating-personal-website) around creating your own!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerkElznik&theme=cobalt2&custom_title=Gerk%20Elznik's%20Top%20Languages)
 
